@@ -4,4 +4,4 @@
 
 Lista de programas:
 
-- [Constante Kaprekar](./tree/master/ConstanteKaprekar)
+- [Constante Kaprekar](https://github.com/leonel01sys/code-challenges/tree/master/ConstanteKaprekar)
