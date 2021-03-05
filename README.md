@@ -4,4 +4,4 @@
 
 Lista de programas:
 
-- [Constante Kaprekar](ConstanteKrapekar)
+- [Constante Kaprekar](./tree/master/ConstanteKaprekar)
